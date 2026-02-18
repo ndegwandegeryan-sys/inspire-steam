@@ -1,4 +1,4 @@
-#Name : ndegwandegeryan
+#Name : ndegwandgeryan
 #Date : 11/02/2026
 
 #program to add ,subtract,divide,

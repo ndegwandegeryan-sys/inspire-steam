@@ -36,14 +36,14 @@ print(25**2) #25 raised to power 2
 print(5**3)
 
 
-for x in range(-180,210,30):
+for x in range(-180,180,30):
     print(math.sin(x))
 
-for x in range(-180,210,30):
+for x in range(-180,180,30):
     print(math.cos(x))
 
-for x in range(-180,210,30):
+for x in range(-180,180,30):
     print(math.tan(x))
 
-for x in range (1,9) :
-    print(x**2)
+digit= int(input"(enter the number :)")
+print(f"the square of {digit} is {digit**2}")
